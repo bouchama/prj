@@ -17,6 +17,11 @@ var tab1 = Titanium.UI.createTab({
     title:'Tab 1',
     window:win1
 });
+var tab1 = Titanium.UI.createTab({  
+    icon:'KS_nav_views.png',
+    title:'Tab 1',
+    window:win1
+});
 
 var label1 = Titanium.UI.createLabel({
 	color:'#999',
